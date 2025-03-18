@@ -3,18 +3,9 @@
 
 👋 Hey there! I'm Nathan Njehia, a **Software Developer** from Nairobi, Kenya 🇰🇪. Currently pursuing a **BSc in Software Development at KCA University (2021-2025)**, I specialize in **full-stack development, AI/ML, and cloud-based solutions**.
 
-💻 **Tech Stack:**
-- **Frontend:** Next.js, React.js, JavaScript, Tailwind CSS
-- **Backend & Databases:** Node.js, Convex, MySQL, SQL
-- **AI & Machine Learning:** Python, Data Science, API Development
-- **Cloud & Payment Integration:** Paystack API, Vercel Deployment
+💡 I love solving problems with code, exploring new technologies, and building intuitive digital experiences. Whether it's **frontend magic with Next.js and Tailwind CSS**, **powerful backend logic with Convex and MySQL**, or **AI-driven applications**, I'm always up for a challenge! 
 
-🌱 I'm always learning and experimenting with new technologies to stay ahead in the tech world.
-
-📌 **Featured Projects:**
-- 🎟️ **[Event Management System (Ticket Baze)](https://github.com/njehia-nathan/ticket-baze)** – A ticketing system with **real-time payments** using Paystack.
-- 🚗 **[Vehicle Parking Management System](https://github.com/njehia-nathan/parking-system)** – A **PHP & MySQL** system for tracking vehicle entries.
-- 🧘 **[Meditation Website](https://github.com/njehia-nathan/meditation-site)** – A **multimedia project** for mindfulness and relaxation.
+🚀 Currently, I'm deep-diving into **machine learning**, **cloud computing**, and **modern web frameworks** to stay ahead in the ever-evolving tech world. My goal is to create scalable and efficient solutions that make a real impact.
 
 ---
 
@@ -31,25 +22,19 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=njehia-nathan&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njehia-nathan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 <h3 align="left">🏆 Certifications:</h3>
-- **CCNA Level 1 & 2 (Cisco Networking Academy, 2023)**
-- **Machine Learning Basics (Coursera, 2024)**
-- **Web Development (Udemy, 2023)**
+<ul>
+<li><b>CCNA Level 1 & 2</b> (Cisco Networking Academy, 2023)</li>
+<li><b>Machine Learning Basics</b> (Coursera, 2024)</li>
+<li><b>Web Development</b> (Udemy, 2023)</li>
+</ul>
 
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/njehia-nathan" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/nathan-njehia-49683023a/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
 <a href="mailto:njehian.nk@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40"/></a>
 </p>
 
-⭐ **Check out my repositories and let's build something amazing! 🚀**
+⭐ **Let's build something amazing! Reach out and let's connect. 🚀**
