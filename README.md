@@ -34,7 +34,7 @@
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nathan-njehia-49683023a/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="mailto:njehian.nk@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40"/></a>
+<a href="mailto:njehian.nk@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="30" width="40"/></a>
 </p>
 
 ⭐ **Let's build something amazing! Reach out and let's connect. 🚀**
