@@ -1,97 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Nathan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Systems%20•%20Data%20•%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=200&section=header&text=%24%20.%2Fnathan.sh%20--init&fontSize=34&fontColor=FFB000&animation=fadeIn&fontAlignY=38&desc=compiling%3A%20software%20%C3%97%20systems%20%C3%97%20data%20%C3%97%20ai&descAlignY=58&descSize=14&descColor=C9C9C9&font=JetBrains%20Mono" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps;Working+across+billing%2C+fintech+%26+data;Nairobi+%F0%9F%87%B0%F0%9F%87%AA+%E2%86%92+the+Cloud+%E2%98%81%EF%B8%8F;Currently+exploring+AI-native+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=FFB000&center=true&vCenter=true&width=700&lines=%3E+initializing+developer+environment...;%3E+loading+stack%3A+java%2C+python%2C+js%2C+sql...;%3E+connecting%3A+nairobi+-%3E+cloud...;%3E+status%3A+building_" alt="terminal boot sequence" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◉_LIVE_PORTFOLIO-9EFF00?style=for-the-badge&labelColor=0D0D0D&color=9EFF00)](https://njehia.dev)
-[![GitHub](https://img.shields.io/badge/GITHUB-njehia--nathan-0D0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njehia-nathan)
+[![](https://img.shields.io/badge/PORTFOLIO-njehia.dev-FFB000?style=for-the-badge&labelColor=0D0D0D)](https://njehia.dev)
+[![](https://img.shields.io/badge/GITHUB-njehia--nathan-0D0D0D?style=for-the-badge&logo=github&logoColor=FFB000&labelColor=0D0D0D)](https://github.com/njehia-nathan)
+[![](https://img.shields.io/badge/MAIL-connect-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFB000&labelColor=0D0D0D)](mailto:njehian.nk@gmail.com)
 
 </div>
 
 <br/>
 
-## 👨🏽‍💻 About Me
+```bash
+$ nathan --whoami
+```
 
-- 💼 Software Developer working across **full-stack development, enterprise systems, billing & fintech, and data**
-- 🧠 My experience spans software development, enterprise systems, billing/fintech platforms, SQL & data analysis, IT operations, and AI-assisted development
-- 🔍 I like understanding how the *whole* system behaves — user → application → API → data → enterprise systems — not just one layer of the stack
-- 🤖 Currently exploring: **AI-native development, data engineering, backend systems, automation, and developer tooling**
-- 🌍 Based in **Nairobi, Kenya**
+Software Developer working across full-stack builds, enterprise systems, billing & fintech, and data — based in Nairobi, Kenya 🇰🇪.
+
+I care less about any one layer of the stack and more about how the whole system behaves once it's wired together:
+
+```
+  user → application → api → data → enterprise systems
+```
+
+Currently pointed at: **AI-native development · data engineering · backend systems · automation**
 
 <br/>
 
-## 🛠️ Stack
+```bash
+$ nathan --stack
+```
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,dart,html,css,sql" />
-
-<br/><br/>
-
-**Frameworks & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,nextjs,flutter,react,nodejs,git,github,linux" />
-
-<br/><br/>
-
-**Data & Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=oracle,postgres,mysql,docker,azure,windows" />
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,dart,html,css,sql,spring,nextjs,flutter,react,nodejs,git,github,linux,oracle,postgres,mysql,docker,azure,windows" />
 
 </div>
 
 <br/>
 
-## 🏢 Experience Highlights
+```bash
+$ nathan --experience --domain=enterprise
+```
 
-**Enterprise Systems** — real-world enterprise technology across billing, payments, customer management, and IT environments.
+<div align="center">
 
-| Billing | Fintech | Data | Engineering |
-|---|---|---|---|
-| Prepaid / postpaid workflows | Payment integrations | Oracle SQL | Spring Boot |
-| Customer & account systems | M-Pesa workflows | Extraction & filtering | REST APIs |
-| Token vending | Transaction analysis | Validation & aggregation | Functional testing / UAT |
-| Billing investigation | Reconciliation | Reporting | Troubleshooting |
+| `billing` | `fintech` | `data` | `engineering` |
+|:---|:---|:---|:---|
+| prepaid / postpaid flows | payment integrations | Oracle SQL | Spring Boot |
+| customer & account systems | M-Pesa workflows | extraction & filtering | REST APIs |
+| token vending | transaction analysis | validation & aggregation | functional testing / UAT |
+| billing investigation | reconciliation | reporting | troubleshooting |
+
+</div>
 
 <br/>
 
-## 🚀 Building
+```bash
+$ nathan --ls ./builds
+```
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**01 — [Ticket Baze](https://njehia.dev)**
-Event ticketing platform. Event discovery, reservations, digital tickets, and payments.
-`Next.js` `Convex` `Clerk` `Paystack`
+**`ticket-baze/`**
+Event ticketing platform — discovery, reservations, digital tickets, payments.
+<br/>`next.js` `convex` `clerk` `paystack`
+<br/><sub>[→ view](https://njehia.dev)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**02 — [njehia.dev](https://njehia.dev)**
-Personal developer interface. Built around interaction, WebGL, motion, and a distinctive visual system.
-`JavaScript` `WebGL` `CSS`
+**`njehia.dev/`**
+Personal dev interface built around interaction, WebGL and motion.
+<br/>`javascript` `webgl` `css`
+<br/><sub>[→ view](https://njehia.dev)</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — Cheza Party**
-Flutter-based mobile experiment exploring interactive party/game experiences.
-`Flutter` `Dart` `Android`
+**`cheza-party/`**
+Flutter mobile experiment — interactive party/game experiences.
+<br/>`flutter` `dart` `android`
 
 </td>
 <td width="50%" valign="top">
 
-**04 — Next**
-More software, automation, and AI experiments currently in development.
-`AI` `Automation` `Data`
+**`next/`**
+More software, automation & AI experiments in progress.
+<br/>`ai` `automation` `data`
 
 </td>
 </tr>
@@ -99,65 +102,51 @@ More software, automation, and AI experiments currently in development.
 
 <br/>
 
-## 📊 GitHub Stats
+```bash
+$ nathan --metrics --live
+```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=njehia-nathan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njehia-nathan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=njehia-nathan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=C9C9C9&icon_color=FFB000&ring_color=FFB000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njehia-nathan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=C9C9C9" />
 
-<img src="https://streak-stats.demolab.com?user=njehia-nathan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=njehia-nathan&hide_border=true&background=0D0D0D&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9C9C9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
 
-![Nathan's GitHub trophies](https://github-profile-trophy.vercel.app/?username=njehia-nathan&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=njehia-nathan&theme=flat&no-frame=true&row=1&column=6&title_color=FFB000&icon_color=FFB000&text_color=C9C9C9&bg_color=0D0D0D" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=njehia-nathan&bg_color=0D0D0D&color=C9C9C9&line=FFB000&point=FFFFFF&area=true&area_color=FFB000&hide_border=true&custom_title=commit+activity" width="96%" />
 
 </div>
 
 <br/>
 
-## 📈 Contribution Activity
+```bash
+$ nathan --log --tag=certifications
+```
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=njehia-nathan&theme=tokyo-night&hide_border=true&custom_title=NATHAN%20NJEHIA%20—%20CONTRIBUTION%20ACTIVITY" width="96%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/njehia-nathan/njehia-nathan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions workflow to generate — see setup note below. Remove this section if you'd rather skip it.
+- `2023` CCNA Level 1 & 2 — Cisco Networking Academy
+- `2024` Machine Learning Basics — Coursera
+- `2023` Web Development — Udemy
 
 <br/>
 
-## 🏆 Certifications
-
-- 🎓 CCNA Level 1 & 2 — *Cisco Networking Academy (2023)*
-- 🤖 Machine Learning Basics — *Coursera (2024)*
-- 🌐 Web Development — *Udemy (2023)*
-
-<br/>
-
-## 🌐 Connect
+```bash
+$ nathan --connect
+```
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/WEBSITE-njehia.dev-9EFF00?style=for-the-badge&labelColor=0D0D0D)](https://njehia.dev)
-[![Email](https://img.shields.io/badge/EMAIL-CONNECT-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njehian.nk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njehia-nathan)
-
-</div>
+[![](https://img.shields.io/badge/WEBSITE-njehia.dev-FFB000?style=for-the-badge&labelColor=0D0D0D)](https://njehia.dev)
+[![](https://img.shields.io/badge/EMAIL-njehian.nk%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFB000&labelColor=0D0D0D)](mailto:njehian.nk@gmail.com)
+[![](https://img.shields.io/badge/GITHUB-follow-0D0D0D?style=for-the-badge&logo=github&logoColor=FFB000&labelColor=0D0D0D)](https://github.com/njehia-nathan)
 
 <br/>
 
-<div align="center">
+<sub>◉ status: building &nbsp;·&nbsp; process exited with code 0</sub>
 
-### ⭐ Understand the system. Build the solution. Ship the thing.
+<img src="https://komarev.com/ghpvc/?username=njehia-nathan&color=FFB000&style=flat-square&label=views" />
 
-<img src="https://komarev.com/ghpvc/?username=njehia-nathan&color=22D3EE&style=flat-square&label=Profile+Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
-
-<sub>Designed & built by Nathan Njehia · 2026</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=100&section=footer" width="100%"/>
 
 </div>
