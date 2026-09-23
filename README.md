@@ -1,336 +1,163 @@
 <div align="center">
 
-<a href="https://njehia.dev">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D0D0D,100:151515&text=NATHAN%20NJEHIA&fontColor=9EFF00&fontSize=52&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20SYSTEMS%20%2F%2F%20DATA%20%2F%2F%20AI&descAlignY=62&descSize=15&animation=fadeIn&font=JetBrains%20Mono" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Nathan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Systems%20•%20Data%20•%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+apps;Working+across+billing%2C+fintech+%26+data;Nairobi+%F0%9F%87%B0%F0%9F%87%AA+%E2%86%92+the+Cloud+%E2%98%81%EF%B8%8F;Currently+exploring+AI-native+development" alt="Typing SVG" />
 
-<a href="https://njehia.dev">
-<img src="https://img.shields.io/badge/◉_LIVE_PORTFOLIO-9EFF00?style=for-the-badge&labelColor=0D0D0D&color=9EFF00" />
-</a>
-&nbsp;
-<a href="https://github.com/njehia-nathan">
-<img src="https://img.shields.io/badge/GITHUB-njehia--nathan-0D0D0D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
 
-<br><br>
-
-<em>Building software. Working with data. Understanding the systems underneath.</em>
+[![Portfolio](https://img.shields.io/badge/◉_LIVE_PORTFOLIO-9EFF00?style=for-the-badge&labelColor=0D0D0D&color=9EFF00)](https://njehia.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-njehia--nathan-0D0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njehia-nathan)
 
 </div>
 
----
+<br/>
 
-## `01 / SYSTEM`
+## 👨🏽‍💻 About Me
 
-<div align="center">
+- 💼 Software Developer working across **full-stack development, enterprise systems, billing & fintech, and data**
+- 🧠 My experience spans software development, enterprise systems, billing/fintech platforms, SQL & data analysis, IT operations, and AI-assisted development
+- 🔍 I like understanding how the *whole* system behaves — user → application → API → data → enterprise systems — not just one layer of the stack
+- 🤖 Currently exploring: **AI-native development, data engineering, backend systems, automation, and developer tooling**
+- 🌍 Based in **Nairobi, Kenya**
 
-<table>
-<tr>
-<td>
+<br/>
 
-```text
-╭─────────────────────────────────────────────────────────╮
-│  NATHAN@GITHUB ~ % system.status                        │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  IDENTITY      Nathan Njehia                            │
-│  ROLE          Software Developer                       │
-│  LOCATION      Nairobi, KE                              │
-│                                                         │
-│  ─────────────────────────────────────────────────────  │
-│                                                         │
-│  SOFTWARE      ████████████████████░░  ACTIVE           │
-│  SYSTEMS       ███████████████████░░░  ACTIVE           │
-│  DATA          █████████████████░░░░░  ACTIVE           │
-│  AI            ███████████████░░░░░░░  EXPLORING       │
-│                                                         │
-│  STATUS        ● BUILDING                               │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `02 / ABOUT`
-
-I build software and work across the systems surrounding it.
-
-My experience spans **software development, enterprise systems, billing & fintech platforms, SQL/data analysis, IT operations and AI-assisted development**.
-
-Rather than staying inside a single layer of the stack, I enjoy understanding how the pieces connect:
-
-```text
-             USER
-               │
-               ▼
-        ┌──────────────┐
-        │ APPLICATION  │
-        └──────┬───────┘
-               │
-        ┌──────▼───────┐
-        │     API      │
-        └──────┬───────┘
-               │
-        ┌──────▼───────┐
-        │    DATA      │
-        └──────┬───────┘
-               │
-        ┌──────▼───────┐
-        │ ENTERPRISE   │
-        │   SYSTEMS    │
-        └───────────────┘
-```
-
-**Current direction:** software engineering + data + AI + automation.
-
----
-
-## `03 / STACK`
+## 🛠️ Stack
 
 <div align="center">
 
-### Languages
-
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,dart,html,css,sql" />
 
-<br><br>
+<br/><br/>
 
-### Frameworks & Platforms
-
+**Frameworks & Platforms**
+<br/>
 <img src="https://skillicons.dev/icons?i=spring,nextjs,flutter,react,nodejs,git,github,linux" />
 
-<br><br>
+<br/><br/>
 
-### Data & Infrastructure
-
+**Data & Infrastructure**
+<br/>
 <img src="https://skillicons.dev/icons?i=oracle,postgres,mysql,docker,azure,windows" />
 
 </div>
 
----
+<br/>
 
-## `04 / EXPERIENCE`
+## 🏢 Experience Highlights
 
-### `ENTERPRISE SYSTEMS`
+**Enterprise Systems** — real-world enterprise technology across billing, payments, customer management, and IT environments.
 
-Worked with real-world enterprise technology across billing, payments, customer management and IT environments.
+| Billing | Fintech | Data | Engineering |
+|---|---|---|---|
+| Prepaid / postpaid workflows | Payment integrations | Oracle SQL | Spring Boot |
+| Customer & account systems | M-Pesa workflows | Extraction & filtering | REST APIs |
+| Token vending | Transaction analysis | Validation & aggregation | Functional testing / UAT |
+| Billing investigation | Reconciliation | Reporting | Troubleshooting |
 
-```text
-BILLING
-├── prepaid / postpaid workflows
-├── customer & account systems
-├── token vending
-└── billing investigation
+<br/>
 
-FINTECH
-├── payment integrations
-├── M-Pesa workflows
-├── transaction analysis
-└── reconciliation
-
-DATA
-├── Oracle SQL
-├── extraction & filtering
-├── validation
-├── aggregation
-└── reporting
-
-ENGINEERING
-├── Spring Boot
-├── REST APIs
-├── functional testing
-├── UAT
-└── troubleshooting
-```
-
-The interesting part isn't any individual technology.
-
-It's understanding **how the entire system behaves**.
-
----
-
-## `05 / BUILDING`
-
-<div align="center">
+## 🚀 Building
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### `01` — Ticket Baze
-
-**Event ticketing platform**
-
-A modern ticketing application exploring event discovery, reservations, digital tickets and payments.
-
+**01 — [Ticket Baze](https://njehia.dev)**
+Event ticketing platform. Event discovery, reservations, digital tickets, and payments.
 `Next.js` `Convex` `Clerk` `Paystack`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `02` — njehia.dev
-
-**Personal developer interface**
-
-An experimental portfolio built around interaction, WebGL, motion and a deliberately distinctive visual system.
-
+**02 — [njehia.dev](https://njehia.dev)**
+Personal developer interface. Built around interaction, WebGL, motion, and a distinctive visual system.
 `JavaScript` `WebGL` `CSS`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### `03` — Cheza Party
-
-**Mobile application**
-
-A Flutter-based experiment exploring interactive party/game experiences.
-
+**03 — Cheza Party**
+Flutter-based mobile experiment exploring interactive party/game experiences.
 `Flutter` `Dart` `Android`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `04` — NEXT
-
-**Currently building**
-
-More software, automation and AI experiments are in development.
-
+**04 — Next**
+More software, automation, and AI experiments currently in development.
 `AI` `Automation` `Data`
 
 </td>
-
 </tr>
 </table>
 
-</div>
+<br/>
 
----
-
-## `06 / GITHUB TELEMETRY`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=njehia-nathan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=9EFF00&text_color=B5B5B5&icon_color=9EFF00&ring_color=9EFF00&rank_icon=github" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=njehia-nathan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njehia-nathan&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njehia-nathan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=9EFF00&text_color=B5B5B5" width="42%" />
+<img src="https://streak-stats.demolab.com?user=njehia-nathan&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=njehia-nathan&hide_border=true&background=0D0D0D&ring=9EFF00&fire=9EFF00&currStreakLabel=9EFF00&sideLabels=B5B5B5&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" />
+![Nathan's GitHub trophies](https://github-profile-trophy.vercel.app/?username=njehia-nathan&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
----
+<br/>
 
-## `07 / CONTRIBUTIONS`
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=njehia-nathan&bg_color=0D0D0D&color=B5B5B5&line=9EFF00&point=FFFFFF&area=true&area_color=9EFF00&hide_border=true&custom_title=NATHAN%20NJEHIA%20%E2%80%94%20CONTRIBUTION%20TELEMETRY" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=njehia-nathan&theme=tokyo-night&hide_border=true&custom_title=NATHAN%20NJEHIA%20—%20CONTRIBUTION%20ACTIVITY" width="96%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/njehia-nathan/njehia-nathan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
-<br>
+> ℹ️ The snake animation needs a one-time GitHub Actions workflow to generate — see setup note below. Remove this section if you'd rather skip it.
+
+<br/>
+
+## 🏆 Certifications
+
+- 🎓 CCNA Level 1 & 2 — *Cisco Networking Academy (2023)*
+- 🤖 Machine Learning Basics — *Coursera (2024)*
+- 🌐 Web Development — *Udemy (2023)*
+
+<br/>
+
+## 🌐 Connect
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njehia-nathan&theme=github_dark" width="96%" />
+[![Website](https://img.shields.io/badge/WEBSITE-njehia.dev-9EFF00?style=for-the-badge&labelColor=0D0D0D)](https://njehia.dev)
+[![Email](https://img.shields.io/badge/EMAIL-CONNECT-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njehian.nk@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/njehia-nathan)
 
 </div>
 
----
-
-## `08 / CURRENTLY.EXPLORING`
+<br/>
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  2026 / RESEARCH QUEUE                                   │
-│                                                          │
-│  [██████████████████░░]  AI-NATIVE DEVELOPMENT            │
-│  [████████████████░░░░]  DATA ENGINEERING                 │
-│  [██████████████░░░░░░]  BACKEND SYSTEMS                 │
-│  [████████████░░░░░░░░]  AUTOMATION                      │
-│  [███████████░░░░░░░░░]  DEVELOPER TOOLING               │
-│                                                          │
-│  ──────────────────────────────────────────────────────  │
-│                                                          │
-│  STATUS: EXPERIMENTING                                   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+### ⭐ Understand the system. Build the solution. Ship the thing.
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=njehia-nathan&color=22D3EE&style=flat-square&label=Profile+Views" />
 
----
-
-## `09 / PRINCIPLE`
-
-<div align="center">
-
-### **Understand the system.**
-
-### **Build the solution.**
-
-### **Ship the thing.**
-
-<br>
-
-`BUILD`  →  `BREAK`  →  `LEARN`  →  `IMPROVE`
-
-</div>
-
----
-
-## `10 / CONNECT`
-
-<div align="center">
-
-<a href="https://njehia.dev">
-<img src="https://img.shields.io/badge/WEBSITE-njehia.dev-9EFF00?style=for-the-badge&labelColor=0D0D0D" />
-</a>
-
-<a href="mailto:njehian.nk@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONNECT-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/njehia-nathan">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-0D0D0D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
 
 <sub>Designed & built by Nathan Njehia · 2026</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:151515,100:0D0D0D" width="100%"/>
 
 </div>
